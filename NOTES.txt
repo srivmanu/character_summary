@@ -1,0 +1,2 @@
+text in "input.txt" is used
+asks for character name and prints the character summary. Prints 4 sentences.
